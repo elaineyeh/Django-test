@@ -10,6 +10,7 @@ psycopg2 = "*"
 drf-jwt = "*"
 drf-yasg = "*"
 django-extensions = "*"
+django-environ = "*"
 
 [dev-packages]
 
